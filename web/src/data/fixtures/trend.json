@@ -1,0 +1,11 @@
+[
+  { "commitSha": "9f21ac0", "date": "2026-06-08", "coveragePct": 41.2, "newCrash": false },
+  { "commitSha": "b8e11d4", "date": "2026-06-11", "coveragePct": 48.9, "newCrash": false },
+  { "commitSha": "c02f9aa", "date": "2026-06-14", "coveragePct": 55.3, "newCrash": false },
+  { "commitSha": "d77b3e1", "date": "2026-06-17", "coveragePct": 54.1, "newCrash": false },
+  { "commitSha": "e19c8f2", "date": "2026-06-20", "coveragePct": 63.7, "newCrash": false },
+  { "commitSha": "f44a1b9", "date": "2026-06-23", "coveragePct": 61.0, "newCrash": false },
+  { "commitSha": "0a3d5c7", "date": "2026-06-26", "coveragePct": 70.4, "newCrash": true },
+  { "commitSha": "1b6e2d8", "date": "2026-06-29", "coveragePct": 74.8, "newCrash": false },
+  { "commitSha": "2c9f0e3", "date": "2026-07-02", "coveragePct": 78.4, "newCrash": true }
+]

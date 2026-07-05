@@ -1,0 +1,5 @@
+{
+  "repo": "scripted/reckon-demo-vault",
+  "contract": "liquidity_vault",
+  "sdk": "soroban-sdk 23.x"
+}

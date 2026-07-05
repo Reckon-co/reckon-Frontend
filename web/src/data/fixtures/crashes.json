@@ -1,0 +1,5 @@
+[
+  { "id": "cr-01", "targetFn": "withdraw", "dedupHash": "sha256:aa19f3c4", "status": "open", "firstSeenAt": "2026-07-02", "seenInRuns": 1, "reproducerPath": "fuzz/artifacts/withdraw/crash-aa19" },
+  { "id": "cr-02", "targetFn": "swap", "dedupHash": "sha256:7be2d891", "status": "acknowledged", "firstSeenAt": "2026-06-26", "seenInRuns": 3, "reproducerPath": "fuzz/artifacts/swap/crash-7be2" },
+  { "id": "cr-03", "targetFn": "deposit", "dedupHash": "sha256:f0d3115a", "status": "fixed", "firstSeenAt": "2026-06-26", "seenInRuns": 2, "reproducerPath": "fuzz/artifacts/deposit/crash-f0d3" }
+]
